@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdminAssTask.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="adminCheckcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminGenReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminMngAppointments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="adminMngEmp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminViewAppointmentscs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminViewFeedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="e1Check.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="e1CustSupport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="e1MngTask.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="e1SellTickets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="e1ViewSal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="e2Check.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="e2GenPresc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="e2MngApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="e2UpdateMedRec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="e2ViewPat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="e3Check.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="e3GenCustSupport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="e3ResCustIssues.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="e3ViewFeedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="employee1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="employee2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="employee3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PatientBookAppointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="u.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PatientCheck.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PatientCustSupport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PatientPrevAppointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PatientTrackAppointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
